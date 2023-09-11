@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "brand": "Apple",
+        "band": "Apple Watch Series 9000",
+        "price": 399.99,
+        "image": "https://example.com/apple_watch_series_7.jpg"
+    },
+    {
+        "id": 2,
+        "brand": "Samsung",
+        "band": "Galaxy Watch 4",
+        "price": 299.99,
+        "image": "https://example.com/galaxy_watch_4.jpg"
+    },
+    {
+        "id": 3,
+        "brand": "Fitbit",
+        "band": "Fitbit Sense",
+        "price": 249.99,
+        "image": "https://example.com/fitbit_sense.jpg"
+    },
+    {
+        "id": 4,
+        "brand": "Garmin",
+        "band": "Fenix 6",
+        "price": 449.99,
+        "image": "https://example.com/garmin_fenix_6.jpg"
+    },
+    {
+        "id": 5,
+        "brand": "Amazfit",
+        "band": "Amazfit GTS 3",
+        "price": 149.99,
+        "image": "https://example.com/amazfit_gts_3.jpg"
+    }
+]
